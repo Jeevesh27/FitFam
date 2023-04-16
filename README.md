@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# GFG HACKATHON 
+## Theme ---> Sports and Fitness
+### FITFAM ( Website Name)
+Our Fitness Project is a comprehensive solution designed to help users achieve their fitness goals. It is an online platform that provides users with access to workout plans, exercise videos and more. Our project is targeted towards fitness enthusiasts of all levels, from beginners to advanced users.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## OverView of our Website
+In FITFAM we have designed a very userfriendly UI/UX design to help the user to navigate easily . In our website we have a Exercise Library which contains all type of exercises for a beginner to advance user . Each Exercise has a desciption which tells how to perform and what body part will it train. Also we have a Youtube videos related to each exerice so that the user will get more info related to that exercise and can perform it in a good manner. 
 
-## Available Scripts
+## Technologies Used In Our Project
+-HTML 
+-CSS
+-Javascript
+-ReactJs
+-NodeJs
+-API
+We have used ReactJS  to make user friendly and Single Page website which gives user a good experience , CSS (Cascading Style Sheet) for adding Style to our website .
+For collecting the Exercise Data we have used (ExerciseDB API) and for YouTube videos we have used (Youtube Search and Download API) by which user can search which type of exercise he/she wants to do. We have used these API from RapidAPI .
 
-In the project directory, you can run:
+## Team Members
+1. Abhinav Shakya
+2. Aman Kumar
+3. Vivek Raj 
+4. Jeevesh Rai
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
