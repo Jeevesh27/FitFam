@@ -14,7 +14,7 @@ In FitFam we have designed a very user friendly UI/UX design to help the user to
 -NodeJs
 -API
 
-We have used ReactJS  to make user friendly and Single Page website which gives user a good experience, CSS(Cascading Style Sheet) for adding Style to our website.
+We have used ReactJS  to make user friendly and Single Page website which gives user a good experience, CSS(Cascading Style Sheet) for adding Style to our website.We have used JavaScript to provide user an interactive behaviour and functionality to the website .
 For collecting the Exercise Data we have used (ExerciseDB API) and for YouTube videos we have used (Youtube Search and Download API) by which user can search which type of exercise he/she wants to do. We have used these APIs from RapidAPI.
 
 ## Team Members
