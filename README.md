@@ -21,5 +21,3 @@ For collecting the Exercise Data we have used (ExerciseDB API) and for YouTube v
 2. Aman Kumar
 3. Vivek Raj 
 4. Jeevesh Rai
-
-
